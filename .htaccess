@@ -1,0 +1,5 @@
+SetEnv USERNAME "midterm_project_user"
+SetEnv PASSWORD "Wnd8iESzwCuyKu8VHTUc2uBQh38uPGYy"
+SetEnv DBNAME "midterm_project"
+SetEnv HOST "dpg-cgdpojik728lv86ke4s0-a.oregon-postgres.render.com"
+SetEnv PORT "5432"
